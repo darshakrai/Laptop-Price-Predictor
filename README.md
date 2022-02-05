@@ -9,8 +9,8 @@
 - **Note** : Install streamlit and sklearn before running app.py
  ( pip install streamlit , pip install sklearn )
 
-![start](https://user-images.githubusercontent.com/92095133/152633201-001505d3-fa3e-4721-bb47-ecd3d52a37bb.jpeg)
+![lpp1](https://user-images.githubusercontent.com/92095133/152640173-1015d16e-c96f-4c96-8fe3-58addd8b2f85.jpeg)
 
-![prediction](https://user-images.githubusercontent.com/92095133/152633221-41513393-10f7-4179-887c-dbff245f9b04.jpeg)
+![lpp2](https://user-images.githubusercontent.com/92095133/152640185-c1cf894d-1a48-4b89-b64c-3308b19da110.jpeg)
   
 
